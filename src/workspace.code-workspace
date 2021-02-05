@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Meus Documentos\\Desenvolvimento\\Arduino\\KeepIn\\MQTT\\MQTT_13"
+		},
+		{
+			"name": "201212-130800-nodemcuv2",
+			"path": "..\\..\\201212-130800-nodemcuv2"
+		},
+		{
+			"name": "201212-135854-nodemcuv2",
+			"path": "..\\..\\201212-135854-nodemcuv2"
+		},
+		{
+			"name": "MQTT_13",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
